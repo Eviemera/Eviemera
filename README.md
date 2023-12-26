@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eviemera
-- 👀 I’m interested in data science and cybrsecurity
-- 🌱 I’m currently learning pyton and java script
+- 👀 I’m interested in data science and cybersecurity
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a mobile app for high school studentz to get ready for college
 - 📫 How to reach me mera64253@gmail.com
 
